@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lisameow
+- 👀 I’m interested in тестирование (testing)
