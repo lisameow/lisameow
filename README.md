@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @lisameow
-- 👀 I’m interested in тестирование (testing)
+- Ruby Developer at Endel
+- store all the code locally:(((
+- tg: @pretty_pie
